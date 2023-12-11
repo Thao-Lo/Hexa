@@ -7,9 +7,18 @@
 .cart-quantity {
 display: inline-block;
 position: absolute;
-top: -1px; 
-right: -5px;
+top: -11px; 
+right: -10px;
 color: rgb(42,42,42);
+}
 
-
+.cart-icon{
+  width: 20px;
+}
+.section-heading-discover-more span{
+  font-size: 14px;
+  color: #0aabd8;
+  font-style: italic;
+  font-weight: 400;
+  text-decoration: underline;
 }
