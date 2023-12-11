@@ -1,0 +1,15 @@
+.cart-container{
+  display: inline-block;
+  position: relative;
+
+}
+
+.cart-quantity {
+display: inline-block;
+position: absolute;
+top: -1px; 
+right: -5px;
+color: rgb(42,42,42);
+
+
+}
